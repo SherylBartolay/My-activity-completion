@@ -1,0 +1,7 @@
+Name: Sheryl Bartolay
+Course/Year: BSIT2-A
+Date of Birth: October 16, 2001
+Place of Birth: Bulan, Sorsogon
+Gender: Female
+Civil Status: Single
+Nationality: Filipino
